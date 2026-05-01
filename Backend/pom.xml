@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.jbk</groupId>
-	<artifactId>AcademicSphere</artifactId>
+	<artifactId>SmartTrack</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>AcademicSphere</name>
-	<description>AcademicSphere - Spring Boot REST API Project</description>
+	<name>SmartTrack</name>
+	<description>SmartTrack - Spring Boot REST API Project</description>
 
 	<url />
 	<licenses>
